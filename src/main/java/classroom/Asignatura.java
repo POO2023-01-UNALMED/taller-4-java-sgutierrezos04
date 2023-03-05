@@ -4,7 +4,7 @@ public class Asignatura {
 
     public String nombre;
     String n = nombre;
-    public int codigoInterno;
+    public double codigoInterno;
     public int codigoExterno;
     public Tipo tipo;
 
